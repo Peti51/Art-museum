@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a8c1176.css",
-    "main.js": "/static/js/main.bdbcfb81.js",
+    "main.js": "/static/js/main.115209d9.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Collection-picture-2.png": "/static/media/Collection-picture-2.7b417b4d6f78def5cc13.png",
     "static/media/Collection-picture-4.png": "/static/media/Collection-picture-4.de0626c9d9772a11264b.png",
@@ -9,8 +9,8 @@
     "static/media/Collection-picture-6.png": "/static/media/Collection-picture-6.a88719d351c56ee529c1.png",
     "static/media/Collection-picture-5.png": "/static/media/Collection-picture-5.f15e01acd80ba9c50e85.png",
     "static/media/Collection-picture-3.png": "/static/media/Collection-picture-3.b920aca74bfb72681988.png",
-    "index.html": "/index.html",
     "static/media/sliding-menu-img-1.svg": "/static/media/sliding-menu-img-1.fb57dd521f34d599f3a921d6c0b6f691.svg",
+    "index.html": "/index.html",
     "static/media/slidingmenu-img-2.svg": "/static/media/slidingmenu-img-2.5768ecfeac91af1de9e169d202c575f6.svg",
     "static/media/slidingmenu-img-6.svg": "/static/media/slidingmenu-img-6.2e5bffe266cb5dfea70b6842fec888be.svg",
     "static/media/slidingmenu-img-5.svg": "/static/media/slidingmenu-img-5.0882926d890f41cdff89cafe09083544.svg",
@@ -19,11 +19,11 @@
     "static/media/slidingmenu-img-3.svg": "/static/media/slidingmenu-img-3.a701ec71e854bd1ad51f3992183ae9ad.svg",
     "static/media/Menu-burger-icon.svg": "/static/media/Menu-burger-icon.de9a34d485623d6d7feec73ee434a8b7.svg",
     "main.2a8c1176.css.map": "/static/css/main.2a8c1176.css.map",
-    "main.bdbcfb81.js.map": "/static/js/main.bdbcfb81.js.map",
+    "main.115209d9.js.map": "/static/js/main.115209d9.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a8c1176.css",
-    "static/js/main.bdbcfb81.js"
+    "static/js/main.115209d9.js"
   ]
 }
